@@ -1,0 +1,10 @@
+#pip install -r requirements.txt
+#create : virtualenv anc
+#activate : anc\Scripts\activate
+#deactive : deactivate
+pillow
+matplotlib
+numpy
+tensorflow
+tensorflow_hub
+pywebio
